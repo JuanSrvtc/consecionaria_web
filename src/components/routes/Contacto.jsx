@@ -20,7 +20,7 @@ export function Contacto() {
 
             <h2>Contacto y consultas</h2>	
 
-            <p> SOMOS UNA MULTIMARCA FEDsERAL DEDICADA A LA COMERCIALIZACIÓN DE UNIDADES 0KM NACIONALES E IMPORTADAS.																					                                                                            
+            <p> SOMOS UNA MULTIMARCA FEDERAL DEDICADA A LA COMERCIALIZACIÓN DE UNIDADES 0KM NACIONALES E IMPORTADAS.																					                                                                            
               NUESTRA CASA MATRÍZ FUE FUNDADA EN LA CIUDAD DE BUENOS AIRES EN MARZO DE 1967.																																										
               NUESTRO SERVICIO DE ATENCIÓN POST VENTA CUENTA CON LA MEJOR TECNOLOGÍA DEL PAÍS	Y																			
               LOS REPUESTOS Y ACCESORIOS DE EXCELENCIA NOS UBICAN EN EL 1º PUESTO EN EL MERCADO AUTOMOTOR.																				
